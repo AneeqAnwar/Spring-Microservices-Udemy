@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="$PROJECT_DIR$/../../confiz/work/tchAdv/cmlm-next-gen/next-gen-backend/CloudMLM-Core/CMLM-Push-Notification/src/main/java/com/tchadv/cmlm/core/pushnotification/dao/impl/GroupDaoImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../confiz/work/tchAdv/cmlm-next-gen/next-gen-backend/CloudMLM-Core/CMLM-Push-Notification/src/test/java/com/tchadv/cmlm/core/pushnotification/dao/impl/GroupDaoImplTest.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiAlbums/albums-ws.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiAlbums/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/PhotoAppApiUsersApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/data/AlbumsServiceClient.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/data/UserEntity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/data/UsersRepository.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/security/AuthenticationFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/security/PasswordConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/security/WebSecurity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/service/UsersService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/service/UsersServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/shared/FeignErrorDecoder.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/shared/UserDto.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/ui/controllers/UsersController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/ui/model/AlbumResponseModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/ui/model/CreateUserRequestModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/ui/model/CreateUserResponseModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/ui/model/LoginRequestModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/java/com/confiz/photoapp/api/users/photoappapiusers/ui/model/UserResponseModel.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppApiUsers/src/main/resources/bootstrap.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppDiscoveryService/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppDiscoveryService/src/main/java/com/confiz/photoapp/discovery/photoappdiscoveryservice/WebSecurity.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppDiscoveryService/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoAppDiscoveryService/src/main/resources/bootstrap.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoappApiAccountManagement/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/PhotoappApiAccountManagement/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/albums-ws.log">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/java/com/confiz/photoapp/api/gateway/security/AuthorizationHeaderFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/java/com/confiz/photoapp/api/gateway/security/GlobalFiltersConfiguration.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/java/com/confiz/photoapp/api/gateway/security/MyPostFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/java/com/confiz/photoapp/api/gateway/security/MyPreFilter.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/api-gateway/src/main/resources/bootstrap.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/java/com/confiz/photoapp/api/PhotoAppApiConfigServerApplication.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/resources/application.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

@@ -1,0 +1,12 @@
+
+]	java:S125V"<This block of commented-out lines of code should be removed.(Šñ«úùÿÿÿÿ8çóÂ/
+°
+java:S1130j"’Remove the declaration of thrown exception 'org.springframework.security.core.userdetails.UsernameNotFoundException' which is a runtime exception.(É­½Ô8º»à/
+ƒ
+java:S1488<"aImmediately return this expression instead of assigning it to the temporary variable "savedUser".(ÒÌÅúÿÿÿÿ8º»à/
+_
+java:S1854S"=Remove this useless assignment to local variable "albumsUrl".(¶˜¦Ôşÿÿÿÿ8çóÂ/
+j
+java:S1128"HRemove this unused import 'org.springframework.web.client.RestTemplate'.(Îö¼Şûÿÿÿÿ8¢»Á/
+P
+java:S1481S".Remove this unused "albumsUrl" local variable.(¶˜¦Ôşÿÿÿÿ8çóÂ/
